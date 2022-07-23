@@ -1,8 +1,10 @@
 ### Olá! Eu sou o Igor
 
-- 👨🏻‍🔬 Atualmente trabalho na area de inspeção de qualidade, mas tenho um sonho de seguir carreia em programção
-- 📚🎓Hoje estou cursando ensino superior em Gestão de Ti e programação em Python
-- 🎮 Amor Jogar nas horas vagas
+Atualmente com 23 anos e possuo interesse em Tecnologia desde que me lembro. Na infância, quando jogava algum jogo eu pensava: "Como isso funciona?", "Porque aquilo aparece na tela?"🎮
+
+Desde então me aprofundei cada vez mais na tecnologia tanto em software como em hardware, mas principalmente em programação em Python e suas tecnologias, hoje estou cursando ensino superior em Gestão de TI na universidade Cruzeiro do Sul, mas pretendo também me graduar futuramente em engenharia de software e também sempre me atualizar com novas tecnologias.📚🎓
+
+Eu sou fascinado por tecnologia e tenho em mente me tornar ainda melhor naquilo que gosto buscando sempre evoluir.👨🏻‍🔬
 -->
 
 <div align="center">
