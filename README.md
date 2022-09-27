@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Igor
 
-Atualmente com 23 anos e possuo interesse em Tecnologia desde que me lembro. Na infância, quando jogava algum jogo eu pensava: "Como isso funciona?", "Porque aquilo aparece na tela?"🎮
+Atualmente trabalhando como estagiário em TI e com interesse em Tecnologia desde que me lembro. Na infância, quando jogava algum jogo eu pensava: "Como isso funciona?", "Porque aquilo aparece na tela?"🎮
 
 Desde então me aprofundei cada vez mais na tecnologia tanto em software como em hardware, mas principalmente em programação em Python e suas tecnologias, hoje estou cursando ensino superior em Gestão de TI na universidade Cruzeiro do Sul, mas pretendo também me graduar futuramente em engenharia de software e também sempre me atualizar com novas tecnologias.📚🎓
 
