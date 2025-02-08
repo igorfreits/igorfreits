@@ -1,10 +1,8 @@
 ### Olá! Eu sou o Igor
 
-Atualmente trabalhando como estagiário em TI e com interesse em Tecnologia desde que me lembro. Na infância, quando jogava algum jogo eu pensava: "Como isso funciona?", "Porque aquilo aparece na tela?"🎮
+Profissional de TI com experiência em suporte ao ERP Benner, garantindo a eficiência do sistema para diversas áreas da empresa. Possui sólidos conhecimentos em SQL, Python 🐍 e Power BI 📊, utilizando essas ferramentas para transformar dados em informações estratégicas, automatizar processos ⚙️ e melhorar a qualidade dos dados 📈.
 
-Desde então me aprofundei cada vez mais na tecnologia tanto em software como em hardware, mas principalmente em programação em Python e suas tecnologias, hoje estou cursando ensino superior em Gestão de TI na universidade Cruzeiro do Sul, mas pretendo também me graduar futuramente em engenharia de software e também sempre me atualizar com novas tecnologias.📚🎓
-
-Eu sou fascinado por tecnologia e tenho em mente me tornar ainda melhor naquilo que gosto buscando sempre evoluir.👨🏻‍🔬
+Sou apaixonado por dados e tecnologia 💻 e estou sempre em busca de formas de automatizar tarefas, melhorar a qualidade dos dados e aumentar a eficiência operacional. Acredito firmemente que decisões bem embasadas fazem toda a diferença para o sucesso dos negócios e, por isso, estou constantemente aprimorando minhas habilidades 📚 para contribuir de maneira mais eficiente e eficaz para o crescimento da organização 🚀.
 -->
 
 <div align="center">
