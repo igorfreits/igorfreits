@@ -25,12 +25,3 @@ Sou apaixonado por **dados** e **tecnologia** 💻 e estou sempre em busca de fo
 <br />
 
 | <a href="https://github.com/igorfreits/igorfreits"><img align="center" src="https://github-readme-stats.vercel.app/api?username=igorfreits&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estatísticas do GitHub do Igor" /></a> | <a href="https://github.com/igorfreits/igorfreits"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfreits&layout=compact&theme=buefy&hide_border=true" /></a> |
-
-#### Principais Projetos
-
-<a href="https://github.com/igorfreits/Studies-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorfreits&repo=Studies-Python&theme=buefy" />
-</a>
-<a href="https://github.com/igorfreits/data-analysis-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorfreits&repo=data-analysis-python&theme=buefy" />
-</a>
